@@ -1,0 +1,2 @@
+# dotSpaceVim
+SpaceVim configuration
